@@ -1,0 +1,2073 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.027986,34.672564 ]
+    },
+    "properties": {
+    "FIELD1":"掛川市南体育館し～すぽ",
+    "FIELD4":"１階事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.053105,34.715288 ]
+    },
+    "properties": {
+    "FIELD1":"佐束幼稚園",
+    "FIELD4":"昇降口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.018671,34.779293 ]
+    },
+    "properties": {
+    "FIELD1":"掛川市生涯学習センター",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.955384,34.78349 ]
+    },
+    "properties": {
+    "FIELD1":"和田岡ふくし館",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.030875,34.774488 ]
+    },
+    "properties": {
+    "FIELD1":"掛川公共職業安定所",
+    "FIELD4":"１階受付"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.028163,34.769916 ]
+    },
+    "properties": {
+    "FIELD1":"掛川工業高等学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.063827,34.785968 ]
+    },
+    "properties": {
+    "FIELD1":"さかがわ幼稚園",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.987439,34.686288 ]
+    },
+    "properties": {
+    "FIELD1":"大須賀中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.984456,34.679982 ]
+    },
+    "properties": {
+    "FIELD1":"横須賀小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.983522,34.679759 ]
+    },
+    "properties": {
+    "FIELD1":"よこすか保育園",
+    "FIELD4":"正面玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.982155,34.682558 ]
+    },
+    "properties": {
+    "FIELD1":"横須賀高等学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.986149,34.788499 ]
+    },
+    "properties": {
+    "FIELD1":"西部ふくしあ",
+    "FIELD4":"玄関カウンター上"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.985835,34.794493 ]
+    },
+    "properties": {
+    "FIELD1":"桜木小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.048379,34.701859 ]
+    },
+    "properties": {
+    "FIELD1":"城東保育園",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.047056,34.70901 ]
+    },
+    "properties": {
+    "FIELD1":"大東北運動場",
+    "FIELD4":"管理棟玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.046359,34.710342 ]
+    },
+    "properties": {
+    "FIELD1":"城東中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.000453,34.773351 ]
+    },
+    "properties": {
+    "FIELD1":"西中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.005514,34.770531 ]
+    },
+    "properties": {
+    "FIELD1":"中央小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.977231,34.794025 ]
+    },
+    "properties": {
+    "FIELD1":"桜木保育園",
+    "FIELD4":"正面玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.975281,34.787504 ]
+    },
+    "properties": {
+    "FIELD1":"掛川こども園",
+    "FIELD4":"正面玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.018928,34.778163 ]
+    },
+    "properties": {
+    "FIELD1":"中央消防署",
+    "FIELD4":"１階事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.017375,34.776407 ]
+    },
+    "properties": {
+    "FIELD1":"第一小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.013907,34.77511 ]
+    },
+    "properties": {
+    "FIELD1":"掛川城天守閣",
+    "FIELD4":"天守閣入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.015004,34.775323 ]
+    },
+    "properties": {
+    "FIELD1":"掛川城御殿",
+    "FIELD4":"御殿広間"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.021441,34.777024 ]
+    },
+    "properties": {
+    "FIELD1":"あいりーな３階掛川児童交流館",
+    "FIELD4":"プレイルーム入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.028957,34.787642 ]
+    },
+    "properties": {
+    "FIELD1":"葛ヶ丘保育園",
+    "FIELD4":"事務室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.023491,34.78041 ]
+    },
+    "properties": {
+    "FIELD1":"東中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.011008,34.766098 ]
+    },
+    "properties": {
+    "FIELD1":"法務局掛川支局",
+    "FIELD4":"正面玄関右手"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.955505,34.78499 ]
+    },
+    "properties": {
+    "FIELD1":"和田岡地域生涯学習センター",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.955813,34.784618 ]
+    },
+    "properties": {
+    "FIELD1":"和田岡小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.06242,34.785589 ]
+    },
+    "properties": {
+    "FIELD1":"東山口小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.006151,34.76543 ]
+    },
+    "properties": {
+    "FIELD1":"掛川年金事務所",
+    "FIELD4":"正面玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.027621,34.777888 ]
+    },
+    "properties": {
+    "FIELD1":"掛川警察署",
+    "FIELD4":"１階ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.027593,34.783824 ]
+    },
+    "properties": {
+    "FIELD1":"乳幼児センターすこやか",
+    "FIELD4":"職員室受付"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.016136,34.875728 ]
+    },
+    "properties": {
+    "FIELD1":"ならここの湯",
+    "FIELD4":"受付"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.967159,34.841545 ]
+    },
+    "properties": {
+    "FIELD1":"原田福祉会館",
+    "FIELD4":"世代間交流室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.967052,34.839091 ]
+    },
+    "properties": {
+    "FIELD1":"原田小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.018601,34.781384 ]
+    },
+    "properties": {
+    "FIELD1":"徳育保健センター",
+    "FIELD4":"１階事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.059102,34.65099 ]
+    },
+    "properties": {
+    "FIELD1":"大東総合運動公園",
+    "FIELD4":"管理棟玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.967577,34.788911 ]
+    },
+    "properties": {
+    "FIELD1":"いこいの広場",
+    "FIELD4":"管理棟"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.05488,34.665472 ]
+    },
+    "properties": {
+    "FIELD1":"大東支所",
+    "FIELD4":"ロビー自販機内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.047641,34.665361 ]
+    },
+    "properties": {
+    "FIELD1":"睦浜幼稚園",
+    "FIELD4":"職員室入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.055489,34.666279 ]
+    },
+    "properties": {
+    "FIELD1":"大東児童館",
+    "FIELD4":"２階事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.955647,34.822424 ]
+    },
+    "properties": {
+    "FIELD1":"原野谷中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.016469,34.791693 ]
+    },
+    "properties": {
+    "FIELD1":"北中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.012943,34.806296 ]
+    },
+    "properties": {
+    "FIELD1":"西郷小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.017418,34.810998 ]
+    },
+    "properties": {
+    "FIELD1":"三笠幼稚園",
+    "FIELD4":"玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.040808,34.708043 ]
+    },
+    "properties": {
+    "FIELD1":"土方幼稚園",
+    "FIELD4":"職員玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.041781,34.707702 ]
+    },
+    "properties": {
+    "FIELD1":"土方小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.041933,34.747885 ]
+    },
+    "properties": {
+    "FIELD1":"上内田小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.012727,34.775222 ]
+    },
+    "properties": {
+    "FIELD1":"掛川西高等学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.017611,34.774341 ]
+    },
+    "properties": {
+    "FIELD1":"智光幼稚園",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.017635,34.785243 ]
+    },
+    "properties": {
+    "FIELD1":"城北小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.028905,34.760779 ]
+    },
+    "properties": {
+    "FIELD1":"子育てセンターひだまり",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.036548,34.778975 ]
+    },
+    "properties": {
+    "FIELD1":"西山口小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.979392,34.677686 ]
+    },
+    "properties": {
+    "FIELD1":"横須賀幼稚園",
+    "FIELD4":"職員室入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.989461,34.67895 ]
+    },
+    "properties": {
+    "FIELD1":"大須賀中央公民館",
+    "FIELD4":"正面玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.989099,34.678467 ]
+    },
+    "properties": {
+    "FIELD1":"大須賀児童館",
+    "FIELD4":"１階事務所前"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.990805,34.687413 ]
+    },
+    "properties": {
+    "FIELD1":"大須賀運動場",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.075617,34.660722 ]
+    },
+    "properties": {
+    "FIELD1":"千浜保育園",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.074825,34.659535 ]
+    },
+    "properties": {
+    "FIELD1":"千浜小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.074985,34.660291 ]
+    },
+    "properties": {
+    "FIELD1":"千浜幼稚園",
+    "FIELD4":"職員玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.035443,34.81707 ]
+    },
+    "properties": {
+    "FIELD1":"倉真小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.04601,34.66687 ]
+    },
+    "properties": {
+    "FIELD1":"大浜中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.045646,34.674878 ]
+    },
+    "properties": {
+    "FIELD1":"大坂幼稚園",
+    "FIELD4":"職員室入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.046037,34.674461 ]
+    },
+    "properties": {
+    "FIELD1":"大坂保育園",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.046914,34.675391 ]
+    },
+    "properties": {
+    "FIELD1":"大坂小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.052348,34.682772 ]
+    },
+    "properties": {
+    "FIELD1":"大東図書館",
+    "FIELD4":"貸出カウンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.002848,34.785219 ]
+    },
+    "properties": {
+    "FIELD1":"掛川海洋センター体育館",
+    "FIELD4":"受付"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.001569,34.785303 ]
+    },
+    "properties": {
+    "FIELD1":"さんりーな",
+    "FIELD4":"１階総合案内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.994601,34.774473 ]
+    },
+    "properties": {
+    "FIELD1":"第二小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.073023,34.802704 ]
+    },
+    "properties": {
+    "FIELD1":"日坂小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.012424,34.672067 ]
+    },
+    "properties": {
+    "FIELD1":"大渕小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.028926,34.672628 ]
+    },
+    "properties": {
+    "FIELD1":"南消防署",
+    "FIELD4":"玄関ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.015718,34.668764 ]
+    },
+    "properties": {
+    "FIELD1":"おおぶち保育園",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.009797,34.673902 ]
+    },
+    "properties": {
+    "FIELD1":"大渕幼稚園",
+    "FIELD4":"職員玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.041401,34.790916 ]
+    },
+    "properties": {
+    "FIELD1":"安養寺運動公園",
+    "FIELD4":"１階受付"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.05932,34.688416 ]
+    },
+    "properties": {
+    "FIELD1":"中小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.059722,34.689439 ]
+    },
+    "properties": {
+    "FIELD1":"中幼稚園",
+    "FIELD4":"職員室入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.011274,34.771666 ]
+    },
+    "properties": {
+    "FIELD1":"掛川聖マリア保育園",
+    "FIELD4":"玄関ホール"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.998691,34.769022 ]
+    },
+    "properties": {
+    "FIELD1":"掛川市役所本庁",
+    "FIELD4":"玄関受付"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.989673,34.768436 ]
+    },
+    "properties": {
+    "FIELD1":"子育てセンターさやものり",
+    "FIELD4":"玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.01495,34.768962 ]
+    },
+    "properties": {
+    "FIELD1":"ＪＲ掛川駅",
+    "FIELD4":"南口改札"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.005641,34.759219 ]
+    },
+    "properties": {
+    "FIELD1":"掛川東高等学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.038266,34.66482 ]
+    },
+    "properties": {
+    "FIELD1":"浜野コミュニティー防災センター",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.967604,34.780954 ]
+    },
+    "properties": {
+    "FIELD1":"中央消防署西分署",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.96986,34.787193 ]
+    },
+    "properties": {
+    "FIELD1":"総合教育センターあすなろセンターホール",
+    "FIELD4":"ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.968674,34.787178 ]
+    },
+    "properties": {
+    "FIELD1":"総合教育センターあすなろ体育館",
+    "FIELD4":"入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.970386,34.786373 ]
+    },
+    "properties": {
+    "FIELD1":"総合教育センターあすなろ宿泊棟",
+    "FIELD4":"ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.975197,34.782483 ]
+    },
+    "properties": {
+    "FIELD1":"桜が丘中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.954528,34.806393 ]
+    },
+    "properties": {
+    "FIELD1":"原谷小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.956059,34.803718 ]
+    },
+    "properties": {
+    "FIELD1":"こども広場あんり",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.060213,34.7829 ]
+    },
+    "properties": {
+    "FIELD1":"栄川中学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.060197,34.775147 ]
+    },
+    "properties": {
+    "FIELD1":"たまり～な",
+    "FIELD4":"エントランスホール"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.97579,34.763361 ]
+    },
+    "properties": {
+    "FIELD1":"曽我小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.010871,34.786814 ]
+    },
+    "properties": {
+    "FIELD1":"掛川中央幼保園",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.98127,34.780879 ]
+    },
+    "properties": {
+    "FIELD1":"ゆうゆうパーク",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.036153,34.685392 ]
+    },
+    "properties": {
+    "FIELD1":"小笠老人ホーム",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.013808,34.805589 ]
+    },
+    "properties": {
+    "FIELD1":"西郷みらい館",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.988646,34.678967 ]
+    },
+    "properties": {
+    "FIELD1":"大須賀支所",
+    "FIELD4":"警備室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.032897,34.781216 ]
+    },
+    "properties": {
+    "FIELD1":"東部ふくしあ",
+    "FIELD4":"事務室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.055489,34.666279 ]
+    },
+    "properties": {
+    "FIELD1":"大東保健センター",
+    "FIELD4":"１階入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.015962,34.775832 ]
+    },
+    "properties": {
+    "FIELD1":"中央図書館",
+    "FIELD4":"貸出カウンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.987911,34.679188 ]
+    },
+    "properties": {
+    "FIELD1":"大須賀図書館",
+    "FIELD4":"貸出カウンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.011549,34.766208 ]
+    },
+    "properties": {
+    "FIELD1":"掛川簡易地方裁判所",
+    "FIELD4":"玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.05531,34.776266 ]
+    },
+    "properties": {
+    "FIELD1":"環境資源ギャラリー",
+    "FIELD4":"管理事務所入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.997833,34.784977 ]
+    },
+    "properties": {
+    "FIELD1":"掛川海洋センター艇庫",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.064923,34.647887 ]
+    },
+    "properties": {
+    "FIELD1":"大東海洋センター艇庫",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.988861,34.668419 ]
+    },
+    "properties": {
+    "FIELD1":"大須賀海洋センター",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.011405,34.767024 ]
+    },
+    "properties": {
+    "FIELD1":"美感ホール",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.05131,34.684581 ]
+    },
+    "properties": {
+    "FIELD1":"文化会館シオーネ",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.04747,34.703385 ]
+    },
+    "properties": {
+    "FIELD1":"大東北公民館",
+    "FIELD4":"入口ロビー右側"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.075963,34.662859 ]
+    },
+    "properties": {
+    "FIELD1":"千浜農村環境改善センター",
+    "FIELD4":"ロビー西側"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.04788,34.70645 ]
+    },
+    "properties": {
+    "FIELD1":"吉岡彌生記念館",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.009326,34.673144 ]
+    },
+    "properties": {
+    "FIELD1":"大渕農村環境改善センター　アイク",
+    "FIELD4":"事務室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.969911,34.686424 ]
+    },
+    "properties": {
+    "FIELD1":"山崎農村環境改善センター",
+    "FIELD4":"事務室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.053585,34.71661 ]
+    },
+    "properties": {
+    "FIELD1":"佐束小学校",
+    "FIELD4":"職員室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.074911,34.664408 ]
+    },
+    "properties": {
+    "FIELD1":"クラリアントジャパン静岡工場",
+    "FIELD4":"守衛室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.988217,34.775938 ]
+    },
+    "properties": {
+    "FIELD1":"エバーグリーン掛川",
+    "FIELD4":"施設２階ＳＳ内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.077331,34.647627 ]
+    },
+    "properties": {
+    "FIELD1":"キャタラー事務棟",
+    "FIELD4":"１階"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.074815,34.64858 ]
+    },
+    "properties": {
+    "FIELD1":"キャタラー第６工場",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.073162,34.648236 ]
+    },
+    "properties": {
+    "FIELD1":"キャタラー第７工場",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.989306,34.772675 ]
+    },
+    "properties": {
+    "FIELD1":"アピタ掛川店",
+    "FIELD4":"１階化粧品売場横"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.071432,34.792268 ]
+    },
+    "properties": {
+    "FIELD1":"中遠環境保全",
+    "FIELD4":"本社玄関受付"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.989539,34.776539 ]
+    },
+    "properties": {
+    "FIELD1":"掛川自動車学校",
+    "FIELD4":"ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.988694,34.775876 ]
+    },
+    "properties": {
+    "FIELD1":"掛川クレーン学校",
+    "FIELD4":"ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.053413,34.685879 ]
+    },
+    "properties": {
+    "FIELD1":"アグリ大東",
+    "FIELD4":"１階玄関ホール"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.046783,34.653317 ]
+    },
+    "properties": {
+    "FIELD1":"丸栄コンクリート静岡工場",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.023611,34.818932 ]
+    },
+    "properties": {
+    "FIELD1":"掛川福祉ノ郷",
+    "FIELD4":"３階医務室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.999466,34.75863 ]
+    },
+    "properties": {
+    "FIELD1":"タイコエレクトロニクスジャパン掛川工場",
+    "FIELD4":"１階エントランス"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.998914,34.759552 ]
+    },
+    "properties": {
+    "FIELD1":"タイコエレクトロニクスジャパン掛川工場",
+    "FIELD4":"１階南西休憩室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.00018,34.75867 ]
+    },
+    "properties": {
+    "FIELD1":"タイコエレクトロニクスジャパン掛川工場",
+    "FIELD4":"１階北東休憩室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.999493,34.75912 ]
+    },
+    "properties": {
+    "FIELD1":"タイコエレクトロニクスジャパン掛川工場",
+    "FIELD4":"２階廊下中央"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.067342,34.64875 ]
+    },
+    "properties": {
+    "FIELD1":"大東温泉シートピア",
+    "FIELD4":"温泉館事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.015667,34.763106 ]
+    },
+    "properties": {
+    "FIELD1":"コンコルド掛川店",
+    "FIELD4":"ホール西側レストスペース"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.012979,34.767922 ]
+    },
+    "properties": {
+    "FIELD1":"東横ＩＮＮ掛川駅新幹線南口",
+    "FIELD4":"玄関"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.987984,34.773279 ]
+    },
+    "properties": {
+    "FIELD1":"ジャンボエンチョー掛川店",
+    "FIELD4":"サービスカウンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.968782,34.678087 ]
+    },
+    "properties": {
+    "FIELD1":"ザ・ビック大須賀店",
+    "FIELD4":"レジ付近"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.972437,34.770932 ]
+    },
+    "properties": {
+    "FIELD1":"中部電力掛川電力所",
+    "FIELD4":"１階ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.988415,34.774946 ]
+    },
+    "properties": {
+    "FIELD1":"かけがわ苑",
+    "FIELD4":"玄関カウンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.013183,34.7708 ]
+    },
+    "properties": {
+    "FIELD1":"中部電力掛川営業所",
+    "FIELD4":"１階ショールーム"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.958316,34.815288 ]
+    },
+    "properties": {
+    "FIELD1":"池島フーズ掛川工場",
+    "FIELD4":"１階事務所奥手洗い場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.996644,34.772505 ]
+    },
+    "properties": {
+    "FIELD1":"フィットネスクラブＫ－ＦＩＴ",
+    "FIELD4":"２階トレーニングジムカウンター内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.996253,34.772536 ]
+    },
+    "properties": {
+    "FIELD1":"掛川スイミングスクール",
+    "FIELD4":"事務内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.068613,34.687225 ]
+    },
+    "properties": {
+    "FIELD1":"積水ハウス静岡工場",
+    "FIELD4":"正門警備室内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.057472,34.718076 ]
+    },
+    "properties": {
+    "FIELD1":"山下工業研究所",
+    "FIELD4":"営業部トラックヤード"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.972719,34.759715 ]
+    },
+    "properties": {
+    "FIELD1":"ユニチャームプロダクツ静岡工場",
+    "FIELD4":"守衛室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.973427,34.759243 ]
+    },
+    "properties": {
+    "FIELD1":"ユニチャームプロダクツ静岡工場",
+    "FIELD4":"製造１Ｇ事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.975294,34.759728 ]
+    },
+    "properties": {
+    "FIELD1":"ユニチャームプロダクツ静岡工場",
+    "FIELD4":"製造２Ｇ事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.053298,34.6542 ]
+    },
+    "properties": {
+    "FIELD1":"岩城製薬静岡工場",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.063802,34.691671 ]
+    },
+    "properties": {
+    "FIELD1":"トッパン・フォームズ東海静岡工場",
+    "FIELD4":"ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.015522,34.761654 ]
+    },
+    "properties": {
+    "FIELD1":"掛川花鳥園",
+    "FIELD4":"受付"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.972376,34.774473 ]
+    },
+    "properties": {
+    "FIELD1":"ヤマハ掛川工場",
+    "FIELD4":"守衛所（正門左）"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.060049,34.658004 ]
+    },
+    "properties": {
+    "FIELD1":"藤森工業掛川事業所",
+    "FIELD4":"正面玄関内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.978325,34.779403 ]
+    },
+    "properties": {
+    "FIELD1":"通所介護すずらん",
+    "FIELD4":"玄関入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.030767,34.657825 ]
+    },
+    "properties": {
+    "FIELD1":"ダイトーケミックス静岡工場",
+    "FIELD4":"本館１階保健室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.020662,34.782663 ]
+    },
+    "properties": {
+    "FIELD1":"グループホーム水垂の里",
+    "FIELD4":"１階事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.066366,34.655894 ]
+    },
+    "properties": {
+    "FIELD1":"くにやす苑",
+    "FIELD4":"特養玄関ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.055723,34.667695 ]
+    },
+    "properties": {
+    "FIELD1":"ミクロン電気静岡工場",
+    "FIELD4":"第１工場１階出入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.047397,34.76588 ]
+    },
+    "properties": {
+    "FIELD1":"つま恋スポーツマンズクラブ",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.048524,34.76746 ]
+    },
+    "properties": {
+    "FIELD1":"つま恋森林乃湯",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.038597,34.764082 ]
+    },
+    "properties": {
+    "FIELD1":"つま恋レクリエーションセンター",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.052196,34.766356 ]
+    },
+    "properties": {
+    "FIELD1":"つま恋カートコース",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.04325,34.690346 ]
+    },
+    "properties": {
+    "FIELD1":"大東苑",
+    "FIELD4":"１階ロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.021787,34.762676 ]
+    },
+    "properties": {
+    "FIELD1":"ホテルルートイン掛川インター",
+    "FIELD4":"フロント"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.990427,34.769568 ]
+    },
+    "properties": {
+    "FIELD1":"さやの家",
+    "FIELD4":"正面玄関カウンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.987986,34.689788 ]
+    },
+    "properties": {
+    "FIELD1":"スズキ大須賀工場",
+    "FIELD4":"守衛所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.968352,34.796065 ]
+    },
+    "properties": {
+    "FIELD1":"静岡よみうりカントリークラブ事務所",
+    "FIELD4":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.960502,34.80325 ]
+    },
+    "properties": {
+    "FIELD1":"静岡よみうりカントリークラブコース売店",
+    "FIELD4":"アウトコース"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.972204,34.79959 ]
+    },
+    "properties": {
+    "FIELD1":"静岡よみうりカントリークラブコース売店",
+    "FIELD4":"インコース"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.041582,34.795361 ]
+    },
+    "properties": {
+    "FIELD1":"ジャトコ掛川地区守衛所",
+    "FIELD4":"守衛所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.041813,34.796709 ]
+    },
+    "properties": {
+    "FIELD1":"ジャトコ掛川地区動力棟",
+    "FIELD4":"動力棟２階"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.968715,34.777877 ]
+    },
+    "properties": {
+    "FIELD1":"ヤマハテクニカルセンター",
+    "FIELD4":"入口"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.003028,34.758243 ]
+    },
+    "properties": {
+    "FIELD1":"ＪＸ金属掛川工場",
+    "FIELD4":"警務室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.015807,34.669902 ]
+    },
+    "properties": {
+    "FIELD1":"ウェルくさぶえ",
+    "FIELD4":"医務室内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.957988,34.832883 ]
+    },
+    "properties": {
+    "FIELD1":"掛川グリーンヒルカントリークラブ",
+    "FIELD4":"クラブハウス事務所内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.981546,34.773459 ]
+    },
+    "properties": {
+    "FIELD1":"ＡＢＣ掛川細田店",
+    "FIELD4":"店内"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.033409,34.762684 ]
+    },
+    "properties": {
+    "FIELD1":"セレモニーホールやすらぎ",
+    "FIELD4":"本館ホールロビー"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.02025,34.818152 ]
+    },
+    "properties": {
+    "FIELD1":"えいせい掛川",
+    "FIELD4":"１階事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.084068,34.668278 ]
+    },
+    "properties": {
+    "FIELD1":"東罐興業静岡工場",
+    "FIELD4":"１階玄関ホール"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.987093,34.669246 ]
+    },
+    "properties": {
+    "FIELD1":"戸塚綜業",
+    "FIELD4":"事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.98859,34.693028 ]
+    },
+    "properties": {
+    "FIELD1":"戸塚綜業西大谷工場",
+    "FIELD4":"１階事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.987106,34.694787 ]
+    },
+    "properties": {
+    "FIELD1":"戸塚綜業本社",
+    "FIELD4":"１階事務所北川廊下"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.978617,34.679771 ]
+    },
+    "properties": {
+    "FIELD1":"介護付有料老人ホームウィル掛川",
+    "FIELD4":"玄関ホール"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.044103,34.674482 ]
+    },
+    "properties": {
+    "FIELD1":"ウエルシア掛川大東店",
+    "FIELD4":"レジ裏"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.059896,34.652399 ]
+    },
+    "properties": {
+    "FIELD1":"高砂ケミカル掛川工場",
+    "FIELD4":"厚生棟１階"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.973441,34.772155 ]
+    },
+    "properties": {
+    "FIELD1":"中部電気保安協会掛川営業所",
+    "FIELD4":"玄関横"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.026041,34.662628 ]
+    },
+    "properties": {
+    "FIELD1":"ギャバン東海工場",
+    "FIELD4":"事務所"
+    }
+  }
+]
+}
