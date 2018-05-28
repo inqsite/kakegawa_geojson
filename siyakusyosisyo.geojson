@@ -1,0 +1,83 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.998392,34.768841 ]
+    },
+    "properties": {
+    "name":"掛川市役所本庁舎",
+    "address":"掛川市長谷1丁目1-1",
+    "tel":"0537-21-1111",
+    "url":"http://www.city.kakegawa.shizuoka.jp/city/profile/shisetsu/kakegawahonchosya.html"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.998274,34.767682 ]
+    },
+    "properties": {
+    "name":"掛川市役所南館（掛川市教育委員会）",
+    "address":"掛川市長谷一丁目1番地の1",
+    "tel":"0537-21-1109",
+    "url":"http://www.city.kakegawa.shizuoka.jp/city/profile/shisetsu/siyakusyominamikan.html"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.996145,34.768665 ]
+    },
+    "properties": {
+    "name":"掛川市役所浄化センター管理棟",
+    "address":"掛川市長谷一丁目1番地の1",
+    "tel":"0537-21-1170 ",
+    "url":"http://www.city.kakegawa.shizuoka.jp/city/profile/shisetsu/jokasentakanrito.html"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.016004,34.772732 ]
+    },
+    "properties": {
+    "name":"掛川市役所連雀出張所",
+    "address":"掛川市連雀1-5",
+    "tel":"0537-21-1199",
+    "url":"http://www.city.kakegawa.shizuoka.jp/city/profile/shisetsu/renjakusyuttyojo.html"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.05474,34.665538 ]
+    },
+    "properties": {
+    "name":"掛川市役所大東支所",
+    "address":"掛川市三俣620",
+    "tel":"0537-72-1111",
+    "url":"http://www.city.kakegawa.shizuoka.jp/city/profile/shisetsu/daitosisyo.html"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.988683,34.678954 ]
+    },
+    "properties": {
+    "name":"掛川市役所大須賀支所",
+    "address":"掛川市西大渕100",
+    "tel":"0537-48-1000",
+    "url":"http://www.city.kakegawa.shizuoka.jp/city/profile/shisetsu/osukasisyo.html"
+    }
+  }
+]
+}
